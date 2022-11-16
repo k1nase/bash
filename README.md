@@ -1,1 +1,4 @@
-# sh
+# bash
+
+aliases
+youtube-dl
